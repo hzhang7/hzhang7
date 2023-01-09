@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hzhang7
-- 👀 I’m interested in nothing?
+- 👀 I’m interested in distributed system?
 - 🌱 I’m currently learning operating system and openstack
 - 💞️ I’m looking to collaborate on ...
 
